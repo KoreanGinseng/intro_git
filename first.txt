@@ -5,3 +5,4 @@ Gitの練習をしていきます。
 ・git rm
 .git status
 キンタマ
+.git diff
